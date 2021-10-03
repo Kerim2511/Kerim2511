@@ -2,7 +2,7 @@
 
 ## 👀 I’m interested in Front-end Development 
  
-## I’m currently learning JavaScript and imoroving my skills in HTML/CSS 
+## I’m currently learning JavaScript and improving my skills in HTML/CSS 
 
 ## How to reach me: ⬇️
 ### LinkedIn Profile: www.linkedin.com/in/kerimmoustafa18536b184
