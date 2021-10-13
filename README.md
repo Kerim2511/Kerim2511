@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Kerim Moustafa
+## 👋 Hi, I’m Kerim
 
 ## 👀 I’m interested in Front-end Development 
  
-## I’m currently learning JavaScript and improving my skills in HTML/CSS 
+## I’m a junior JavaScript and HTML5/CSS3 Developer
 
 ## How to reach me: ⬇️
 ### LinkedIn Profile: www.linkedin.com/in/kerimmoustafa18536b184
